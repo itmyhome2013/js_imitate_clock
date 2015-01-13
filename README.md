@@ -1,3 +1,3 @@
-###JS模拟时钟
+###JS妯℃嫙鏃堕挓
 
-查看演示 http://itmyhome.com/js_imitate_clock/ 
+鏌ョ湅婕旂ず http://itmyhome.com/js_imitate_clock/ 
